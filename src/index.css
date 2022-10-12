@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  font-family: 'Open Sans', sans-ser;
+}
+.navbar{
+  padding: 0,30px;
+width: 100%;
+height: 60px;
+background-color: #fff;
+display: flex;
+align-items: center;
+box-shadow: 0 0 10px rgba(0, 0,0, 0.1);
+
+}
+.left_Navbar{
+ 
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  width: 25%;
+
+}
+.faceboo_icons{
+  width:20% ;
+}
+.icons{
+ font-size: 50px;
+ color: #0d8cf1;
+ 
+}
+.search_box{
+  width: 80%;
+  position: relative;
+  margin: 0 20px;
+  
+}
+.search{
+  width: 80%;
+  margin: -1px -20px;
+  padding: 14px 23px;
+  border: none;
+  outline: none;
+  background-color: #f0f2f5;
+  border-radius: 20px;
+  padding-left: 30px;
+font-size: 15px;
+}
+.search_icon{
+  position: absolute;
+  top: 15px;
+  left: 5px;
+  margin-left: -17px;
+}
+
+/* *{
+  margin: 0;
+  padding: 0;
+
+}
+.navbar{
+  padding: 0,30px;
+width: 100%;
+height: 60px;
+background-color: #fff;
+display: flex;
+align-items: center;
+box-shadow: 0 0 10px rgba(0, 0,0, 0.1);
+
+}
+.left_Navbar{
+ 
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  width: 25%;
+
+}
+.faceboo_icons{
+  font-size: 40px;
+  color: #0d8cf1;
+  width: 10%;
+}
+.search_box{
+  padding: 14px 15px;
+  width: 90%;
+}
+.search{
+  padding: 0 14px;
+  width: ;
+  background-color: #f0f2f5;
+} */
